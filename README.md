@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zafar2154
+- 👋 Hi, I’m Zahid Faqih Alim Rabbani
 - 👀 I’m interested in ML, IOT, Electronics & Control
 
 <!---
